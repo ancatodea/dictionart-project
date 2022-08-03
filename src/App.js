@@ -10,6 +10,11 @@ function App() {
       </header>
       <Dictionary />
       </div>
+      <div className="text-center">Coded by Anca Todea
+       <a href="https://github.com/ancatodea/dictionary-project">
+         (open-source code on github)
+       </a>
+      </div>
     </div>
   );
 }
