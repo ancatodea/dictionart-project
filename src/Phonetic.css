@@ -12,9 +12,10 @@
 
 }
 .Phonetic {
-  margin: 10px 12px;
+  margin: 10px 0px;
 }
 .Phonetic .text {
   opacity: 0.6;
   font-weight: 500;
+  margin-left: 10px;
 }
