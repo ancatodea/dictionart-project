@@ -1,3 +1,19 @@
 .App header {
   text-align: center;
+  font-size: 38px;
+  font-weight: 700;
+}
+.App {
+  background: rgb(248, 245, 255)
+}
+.App a{
+  color: blueviolet;
+  text-decoration: none;
+}
+.App .logo {
+  margin-bottom: 12px;
+  padding-left: 12px;
+  max-width: 50px;
+  margin-right: 6px;
+  
 }
